@@ -8,6 +8,7 @@ body {
     background: #211D1B;
     font-family: cursor, monospace;
     overflow-x: hidden;
+    letter-spacing: 0.05em;
   }
   ::selection {
     color: #211830;
@@ -82,7 +83,6 @@ body {
     overflow: hidden;
     white-space: nowrap;
     margin: 0;
-    letter-spacing: 0.05em;
     animation: typing 0.5s steps(30, end);
   }
   .no-animation {
