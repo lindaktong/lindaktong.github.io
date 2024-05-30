@@ -16,11 +16,11 @@ whois = [
   "<br>"
 ];
 
-whoami = [
-  "<br>",
-  "The paradox of â€œWho am I?â€ is: we never know, but, we constantly find out.",
-  "<br>"
-];
+// whoami = [
+//   "<br>",
+//   "The paradox of â€œWho am I?â€ is: we never know, but, we constantly find out.",
+//   "<br>"
+// ];
 
 social = [
   "<br>",
@@ -47,7 +47,7 @@ projects = [
 help = [
   "<br>",
   '<span class="command">whois</span>          hi there!',
-  '<span class="command">whoami</span>         who are you?',
+  // '<span class="command">whoami</span>         who are you?',
   '<span class="command">bookshelf</span>      hey mtv, welcome to my lib',
   '<span class="command">social</span>         catch me around the web',
   '<span class="command">secret</span>         find the password',
