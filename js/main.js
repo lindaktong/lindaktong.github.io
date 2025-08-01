@@ -79,8 +79,8 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
-    case "help":
-      loopLines(help, "color2 margin", 80);
+    case "ls":
+      loopLines(ls, "color2 margin", 80);
       break;
     case "whois":
       loopLines(whois, "color2 margin", 80);
@@ -151,7 +151,7 @@ function commander(cmd) {
       newTab(github);
       break;
     default:
-      addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
+      addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'ls'</span>.</span>", "error", 100);
       break;
   }
 }

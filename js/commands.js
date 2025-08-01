@@ -1,7 +1,7 @@
 var curius = "https://curius.app/linda2";
 var bookshelf = "https://bookshelf.website/lkt/";
 var twitter = "https://www.twitter.com/lktong_/";
-var password = "fkcodes";
+var password = "eudaemonia";
 var linkedin = "https://www.linkedin.com/in/lindaktong/";
 var goodreads = "https://www.goodreads.com/user/show/45442005-lt/";
 var github = "https://github.com/lindaktong/";
@@ -12,7 +12,6 @@ whois = [
   "hey, i'm linda‹",
   "i study cs & classics at stanford",
   "in my free time, i like reading books and longform articles, going on walks, and making things",
-  "i'm also a fellow @pearvc! reach out if you're starting something new or interested in learning more",
   "<br>"
 ];
 
