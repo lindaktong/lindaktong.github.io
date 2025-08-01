@@ -43,7 +43,7 @@ projects = [
   "<br>"
 ];
 
-help = [
+ls = [
   "<br>",
   '<span class="command">whois</span>          hi there!',
   // '<span class="command">whoami</span>         who are you?',
@@ -52,7 +52,7 @@ help = [
   '<span class="command">secret</span>         find the password',
   '<span class="command">projects</span>       view coding projects',
   '<span class="command">history</span>        view command history',
-  '<span class="command">help</span>           (you\'re here)',
+  '<span class="command">ls</span>           (you\'re here)',
   '<span class="command">email</span>          say hi! i don\'t bite :)',
   '<span class="command">clear</span>          clear terminal',
   '<span class="command">banner</span>         display the header',
@@ -74,6 +74,6 @@ banner = [
 "      '================================`",
 "    ",
   '<span class="color2">hello world, i\'m linda! welcome to my interactive web terminal.</span>',
-  "<span class=\"color2\">for a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">for a list of available commands, type</span> <span class=\"command\">'ls'</span><span class=\"color2\">.</span>",
   "         "
 ];
